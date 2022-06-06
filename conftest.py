@@ -1,4 +1,3 @@
-import logging
 import pytest
 from selenium import webdriver
 
